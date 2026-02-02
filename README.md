@@ -14,15 +14,17 @@ This project is an **introductory implementation of similarity search** using ve
 ---
 
 ## Project Structure
+```text
 3-SimilaritySearch/
-│
-├── app.py                # Main application logic
-├── vector_store.py       # Vector store creation and search logic
-├── singlestoredb.py      # Database connection and storage
-├── query_database.json   # Sample data for querying
-├── requirements          # Project dependencies
+├── app.py                 # Main application logic
+├── vector_store.py        # Vector store creation and search logic
+├── singlestoredb.py       # Database connection and storage
+├── query_database.json    # Sample data for querying
+├── requirements           # Project dependencies
 ├── .gitignore
 └── README.md
+```
+
 
 ## How It Works
 Text data is converted into vector embeddings
