@@ -15,11 +15,13 @@ This project is an **introductory implementation of similarity search** using ve
 
 ## Project Structure
 3-SimilaritySearch/
-├── app.py
-├── vector_store.py
-├── singlestoredb.py
-├── query_database.json
-├── requirements
+│
+├── app.py                # Main application logic
+├── vector_store.py       # Vector store creation and search logic
+├── singlestoredb.py      # Database connection and storage
+├── query_database.json   # Sample data for querying
+├── requirements          # Project dependencies
+├── .gitignore
 └── README.md
 
 ## How It Works
