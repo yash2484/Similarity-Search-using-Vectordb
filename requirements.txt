@@ -1,0 +1,9 @@
+ipykernel
+python-dot
+streamlit
+langchain
+faiss-cpu
+openai
+langchain_community
+singlestoredb
+sentence_transformers
